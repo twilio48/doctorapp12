@@ -1,6 +1,7 @@
 package com.email_services.email_service_provide.payload;
 
 public class EmailRequest {
+    //this is entity class
     private String to;
     private String subject;
     private String body;
